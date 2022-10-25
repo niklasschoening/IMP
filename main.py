@@ -1,5 +1,5 @@
-#LZ77 & Huffmann
-#Visualisierung Binärcode
+# LZ77 & Huffmann
+# Visualisierung Binärcode
 # JPEG
 #huffmann Visualizer
 #Test
