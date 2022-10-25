@@ -1,2 +1,2 @@
-x = 1
-print(x*x)
+#LZ77 & Huffmann
+#Visualisierung Binärcode
