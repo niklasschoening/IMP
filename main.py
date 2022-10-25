@@ -1,4 +1,7 @@
 from Marco import *
+from Niklas import *
+from Cilia import *
+from Sarah import *
 
 # LZ77 & Huffmann
 # Visualisierung Binärcode
