@@ -1,3 +1,3 @@
-#LZ77 & Huffmann
-#Visualisierung Binärcode
+# LZ77 & Huffmann
+# Visualisierung Binärcode
 # JPEG
