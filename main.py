@@ -13,3 +13,8 @@ from Sarah import *
 # Visualisierung: Sarah
 # LZ77: Niklas/Marco
 # Huffmann: Cilia/Sarah
+
+
+
+
+
