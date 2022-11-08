@@ -14,7 +14,4 @@ from Sarah import *
 # LZ77: Niklas/Marco
 # Huffmann: Cilia/Sarah
 
-Marco = 1
-
-print(Marco)
 
